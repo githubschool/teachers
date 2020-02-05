@@ -62,6 +62,8 @@ Please take a moment to complete the class survey at: <https://www.surveymonkey.
 - [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
 </details>
+### Inserted by yl-adhoc
+- hmmm.
 
 ### What's Next?
 
